@@ -1,3 +1,9 @@
+# Answer
+1.D 2.B 3.A 4.C 5.B 
+6.B 7.A 8.D 9.C 10.A
+11.C 12.D 13.B 14.A 15.C 
+16.C 17.A 18.C 19.C 20.C
+
 ## poll
 n。 民意调查
 
@@ -108,3 +114,68 @@ one parent believed *that her daughter had a severe hearing problem.*
 
 - Object clause
 her daughter had a severe hearing problem.
+
+She was so convinced that she took her to an audiologist to have her ear tested.
+
+## report back
+
+## tuck          CET6 _|_ 考研 
+
+## tuning out
+不理会
+
+## tug              CET6 _|_ 考研
+v。用力拖 拉 拽
+
+tug of war 拔河
+
+she is just *tuning you out*
+- 现在分词短语
+
+## rising 
+rise的现在分词
+rising divorce rate 正在上升的离婚率
+
+
+A leading cause of the rising divorce rate(more than half of all marriages end in divorce)is the failure of husbands and wives to interact effectively.
+
+- Object
+ the failure of husbands and wives
+ - Object Complement
+ to interact effectively
+
+## neither
+两者都不
+Neither person responds to the actual message sent by the other.
+
+## in like fasion
+以类似的方式
+
+
+## out of touch with
+与……脱节
+
+## constituent
+n。选民
+
+In like fashion，political scientists report that a growing number of people believe that their elected and appointed officials are out of touch with the constituents they are supposedly representing.
+
+## legislative
+adj。立法的
+
+## legitimate          CET6 _|_ 考研 
+adj。正当的、合法的
+
+## legalized
+legal
+legalize v。使合法
+adj。合法的
+
+## liberal
+adj。思想开明的
+
+## rose
+rise      rose         risen
+
+## horror
+honor n。荣耀
